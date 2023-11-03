@@ -1,20 +1,7 @@
 # Entrée 4
-## Décrire 5 emplois du domaine du multimédia
-Choisissez des emplois qui pourraient vous intéresser. 
-
-### Emploi 1 - Identification
-Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
-
-### Emploi 2 - Identification
-4 à 5 lignes
-
-### Emploi 3 - Identification
-4 à 5 lignes 
-
-### Emploi 4 - Identification
-4 à 5 lignes
-
-### Emploi 5 - Identification
-4 à 5 lignes
-
+Scénariste en multimédia : c'est une personne qui doit imaginer le scénario, les intéractions et tous les aspects techniques et artistiques et les données à intégrer à chaque image. Il doit composer une histoire en tenant compte de tous ces aspects; les dialogues, les décors tout en restant original et proposer quelque chose de nouveau et adapter une oeuvre existante.
+Programmeurs et développeurs en médias interactifs: Les programmeurs et développeurs en médias interactifs écrivent, modifient et mettent à l’essai le code informatique pour des applications logicielles et des logiciels de systèmes d’exploitation ou pour des médias interactifs tels que des jeux, des didacticiels et des applications mobiles.
+Webmaster: Le webmaster gère un site Internet, et/ou Intranet, dans son ensemble, ce qui implique des compétences à la fois techniques et graphiques, ainsi qu’une bonne capacité rédactionnelle. Il conçoit le site, ou est associé à sa création. Il ajoute régulièrement du contenu, vérifie le fonctionnement et la qualité d’affichage sur les différents outils multimédia des internautes. Celui-ci intervient en cas de souci technique. Le webmaster veille également à la compatibilité du site Internet avec les différents navigateurs.
+Développeur d'applications mobiles: Le développeur d'applications mobiles effectue la réalisation technique et le développement informatique d'applications pour mobiles, smartphones et autres tablettes. Il peut s'agir de la création d'une application de toutes pièces, de l'adaptation d'un site web à l'une de ces plates-formes, ou encore de l'optimisation d'une application déjà existante.
+Testeur de produits multimédias: Le testeur multimédia est un passionné capable d’évaluer un produit dans les moindres détails. Il intervient donc dans un processus de démarche qualité.  Le testeur multimédia est missionné pour chasser le moindre dysfonctionnement, la moindre anomalie, le moindre bug avant la diffusion et la commercialisation d’un produit dit multimédia comme le jeu vidéo ou le cédérom.
 
