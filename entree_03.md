@@ -1,20 +1,2 @@
 # Entrée 3
-## Plan de carrière
-
-### Présentation
-Parlez de vous. 
-
-### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
-
-### Emplois qui vous intéressent
-Nommez deux emplois.
-
-### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
-
-### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
-
-### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+Tout comme j'ai écrit dans mon entrée 1. Le programme TIM est un avantage à mes projets de carrière. Je rêve faire un film où je suis le main acteur ou une série cartoonish où je produis toute la musique également. Les cours d'audio, de photo, d'illustration et d'intégration multimédia sont tous des clefs pour que j'y arrive.J'ai davanatges de projets que je garde secret car c'est une règle du succes. Cela dit, ça donne une bonne idée de où j'irais et comment TIM m'aideras à atteindre ce but si Dieu le veut.
